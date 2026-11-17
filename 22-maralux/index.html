@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>MaraLux — Алматы</title><style>
+<!DOCTYPE html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>MaraLux — Алматы</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;900&family=Manrope:wght@400;600;800&family=Playfair+Display:ital,wght@0,500;0,700;1,500&display=swap" rel="stylesheet"><script>addEventListener('DOMContentLoaded',function(){if(!('IntersectionObserver' in window))return;var h=innerHeight;var o=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');o.unobserve(e.target)}})},{threshold:.1});document.querySelectorAll('.rv').forEach(function(el){if(el.getBoundingClientRect().top>h)o.observe(el)})});</script><style>
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
 body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
@@ -15,20 +15,35 @@ a{color:inherit}
 footer{font-size:13px;opacity:.6;padding:34px 0;text-align:center}
 .credit{font-size:11px;opacity:.55;margin-top:6px}
 
-body{background:#fff;color:#111}
-.top{padding:70px 0 40px;border-bottom:1px solid #eee}
-.top small{text-transform:uppercase;letter-spacing:.18em;font-size:12.5px;color:#888}
-.top h1{font-family:Georgia,'Times New Roman',serif;font-weight:400;font-size:clamp(46px,8vw,104px);line-height:.98;letter-spacing:-.03em;margin:18px 0 26px}
-.top p{font-size:20px;color:#555;max-width:640px;margin-bottom:30px}
-.main{background:#111;color:#fff} .ghost{border:1px solid #111;color:#111}
-.wide{height:min(62vh,560px);background:linear-gradient(135deg,#2a1622,#4f2440) center/cover;margin:50px 0}
-.cols{display:grid;grid-template-columns:repeat(3,1fr);gap:40px;padding:30px 0 70px}
-.cols h3{font-family:Georgia,serif;font-weight:400;font-size:26px;margin:10px 0} .cols i{color:#d4568c;font-style:normal;font-weight:700}
-.cols p{color:#666}
-.why{padding:70px 0;border-top:1px solid #eee;border-bottom:1px solid #eee}
-.why li{list-style:none;font-family:Georgia,serif;font-size:clamp(22px,3vw,32px);padding:10px 0}
-.why li::before{content:'— ';color:#d4568c}
-.end{padding:80px 0;text-align:center} .end h2{font-family:Georgia,serif;font-weight:400;font-size:clamp(30px,4.5vw,50px);margin-bottom:16px}
-.end .btns{justify-content:center;margin-top:26px}
-@media(max-width:760px){.cols{grid-template-columns:1fr;gap:26px}}
-</style></head><body><div class="demo">Демо-версия сайта, подготовленная для «MaraLux». Понравилось? Сделаем полноценный сайт за 3 дня.</div><div class="wrap"><header class="top"><small>Алматы</small><h1>MaraLux</h1><p>Алматы. Звоните или пишите в WhatsApp — ответим и подскажем.</p><div class="btns"><a class="btn main" href="tel:+77024194662">📞 Позвонить</a><a class="btn ghost" href="https://wa.me/77024194662">💬 WhatsApp</a></div></header></div><div class="wide"></div><div class="wrap"><h2 style="font-size:14px;letter-spacing:.18em;text-transform:uppercase;color:#888">Услуги</h2><div class="cols"><div><i>01</i><h3>Стрижки и окрашивание</h3><p></p></div><div><i>02</i><h3>Маникюр и уход</h3><p></p></div><div><i>03</i><h3>Онлайн-запись</h3><p></p></div></div><ul class="why"><li>Удобно связаться по телефону или в WhatsApp</li><li>Внимательно относимся к каждому клиенту</li><li>Работаем для жителей города Алматы</li></ul><div class="end"><h2>Запишитесь на удобное время — мы подберём мастера.</h2><p><b>Город:</b> Алматы</p><p><b>Телефон:</b> +7(702)-419-46-62</p><div class="btns"><a class="btn main" href="tel:+77024194662">📞 Позвонить</a><a class="btn ghost" href="https://wa.me/77024194662">💬 WhatsApp</a></div></div></div><footer>© MaraLux, Алматы<div class="credit"></div></footer><div class="sticky"><a class="btn" style="background:#111;color:#fff" href="tel:+77024194662">📞 Позвонить</a><a class="btn" style="background:#25d366;color:#fff" href="https://wa.me/77024194662">💬 WhatsApp</a></div></body></html>
+body{font-family:'Manrope','Segoe UI',system-ui,sans-serif}
+.rv.in{animation:rv .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rv{from{opacity:0;transform:translateY(30px)}to{opacity:1;transform:none}}
+.mq{overflow:hidden;white-space:nowrap;padding:18px 0}
+.mq div{display:inline-block;animation:mq 28s linear infinite}
+.mq span{display:inline-block;margin:0 28px}
+@keyframes mq{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.mq div,.rv.in{animation:none}}
+.btn{transition:transform .2s,box-shadow .2s}.btn:hover{transform:translateY(-2px);box-shadow:0 10px 24px -10px rgba(0,0,0,.45)}
+
+@keyframes fl{0%,100%{transform:translateY(0) rotate(var(--r,0deg))}50%{transform:translateY(-12px) rotate(var(--r,0deg))}}
+@media (prefers-reduced-motion:reduce){.fc{animation:none!important}}
+
+body{background:#f7e9e7;color:#2e1428}
+.stage{position:relative;min-height:88vh;display:grid;place-items:center;overflow:hidden;padding:60px 0}
+.giant{position:absolute;inset:auto 0 auto 0;top:50%;transform:translateY(-58%);text-align:center;
+font-family:'Unbounded',sans-serif;font-weight:900;font-size:clamp(70px,19vw,300px);line-height:.8;letter-spacing:-.05em;
+text-transform:uppercase;color:#c94f86;opacity:.92;white-space:nowrap;pointer-events:none}
+.card{position:relative;z-index:2;width:min(420px,78vw);aspect-ratio:3/4;border-radius:30px;
+background:none center/cover,#2e1428;box-shadow:0 50px 90px -40px rgba(0,0,0,.6);transform:rotate(-2deg)}
+.meta{position:absolute;z-index:3;left:22px;right:22px;bottom:26px;display:flex;justify-content:space-between;align-items:end;gap:16px;flex-wrap:wrap}
+.meta p{max-width:360px;font-weight:600}
+.main{background:#2e1428;color:#f7e9e7} .ghost{background:#f7e9e7;border:2px solid #2e1428;color:#2e1428}
+section{padding:90px 0} h2{font-family:'Unbounded';font-size:clamp(28px,4vw,46px);margin-bottom:30px}
+.srv{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.srv div{background:#efd3d2;border-radius:24px;padding:30px} .srv b{color:#c94f86;font-family:'Unbounded'} .srv h3{font-size:22px;margin:12px 0 6px} .srv p{opacity:.7}
+.mq{font-family:'Unbounded';font-weight:700;font-size:clamp(20px,3vw,32px);text-transform:uppercase} .mq span:nth-child(even){color:#c94f86}
+.cta{background:#2e1428;color:#f7e9e7;border-radius:34px;padding:64px 40px;text-align:center}
+.cta h2{color:#f7e9e7} .cta .btns{justify-content:center;margin-top:24px} .cta .main{background:#c94f86;color:#fff} .cta .ghost{background:transparent;border-color:#f7e9e7;color:#f7e9e7}
+@media(max-width:820px){.srv{grid-template-columns:1fr}.meta{position:static;margin-top:24px;justify-content:center}.stage{display:block;text-align:center;padding-top:30px}
+.giant{position:relative;top:auto;transform:none;font-size:21vw;white-space:normal;margin-bottom:-.42em;z-index:1}.card{margin:0 auto;z-index:2}}
+</style></head><body><div class="demo">Демо-версия сайта, подготовленная для «MaraLux». Понравилось? Сделаем полноценный сайт за 3 дня.</div><div class="stage"><div class="giant">MaraLux</div><div class="card rv"></div><div class="wrap meta"><p>MaraLux — Алматы. Звоните или пишите в WhatsApp — ответим и подскажем.</p><div class="btns"><a class="btn main" href="tel:+77024194662">📞 Позвонить</a><a class="btn ghost" href="https://wa.me/77024194662">💬 WhatsApp</a></div></div></div><div class="mq"><div><span>Стрижки и окрашивание</span><span>✦</span><span>Маникюр и уход</span><span>✦</span><span>Онлайн-запись</span><span>✦</span><span>Удобно связаться по телефону или в WhatsApp</span><span>✦</span><span>Внимательно относимся к каждому клиенту</span><span>✦</span><span>Работаем для жителей города Алматы</span><span>✦</span><span>Стрижки и окрашивание</span><span>✦</span><span>Маникюр и уход</span><span>✦</span><span>Онлайн-запись</span><span>✦</span><span>Удобно связаться по телефону или в WhatsApp</span><span>✦</span><span>Внимательно относимся к каждому клиенту</span><span>✦</span><span>Работаем для жителей города Алматы</span><span>✦</span></div></div><section><div class="wrap"><h2>Услуги</h2><div class="srv"><div class="rv"><b>01</b><h3>Стрижки и окрашивание</h3><p></p></div><div class="rv"><b>02</b><h3>Маникюр и уход</h3><p></p></div><div class="rv"><b>03</b><h3>Онлайн-запись</h3><p></p></div></div><p style="margin-top:28px;font-size:18px;opacity:.8">Удобно связаться по телефону или в WhatsApp · Внимательно относимся к каждому клиенту · Работаем для жителей города Алматы</p></div></section><section style="padding-top:0"><div class="wrap"><div class="cta rv"><h2>Запишитесь на удобное время — мы подберём мастера.</h2><p><b>Город:</b> Алматы</p><p><b>Телефон:</b> +7(702)-419-46-62</p><div class="btns"><a class="btn main" href="tel:+77024194662">📞 Позвонить</a><a class="btn ghost" href="https://wa.me/77024194662">💬 WhatsApp</a></div></div></div></section><footer>© MaraLux, Алматы<div class="credit"></div></footer><div class="sticky"><a class="btn" style="background:#c94f86;color:#fff" href="tel:+77024194662">📞 Позвонить</a><a class="btn" style="background:#25d366;color:#fff" href="https://wa.me/77024194662">💬 WhatsApp</a></div></body></html>

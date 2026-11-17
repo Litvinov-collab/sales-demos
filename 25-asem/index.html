@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Асем — Алматы</title><style>
+<!DOCTYPE html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Асем — Алматы</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;900&family=Manrope:wght@400;600;800&family=Playfair+Display:ital,wght@0,500;0,700;1,500&display=swap" rel="stylesheet"><script>addEventListener('DOMContentLoaded',function(){if(!('IntersectionObserver' in window))return;var h=innerHeight;var o=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');o.unobserve(e.target)}})},{threshold:.1});document.querySelectorAll('.rv').forEach(function(el){if(el.getBoundingClientRect().top>h)o.observe(el)})});</script><style>
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
 body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
@@ -15,20 +15,36 @@ a{color:inherit}
 footer{font-size:13px;opacity:.6;padding:34px 0;text-align:center}
 .credit{font-size:11px;opacity:.55;margin-top:6px}
 
-body{background:#0f1012;color:#ececec}
-.hero{min-height:88vh;display:flex;align-items:flex-end;background:linear-gradient(180deg,rgba(0,0,0,.25),rgba(0,0,0,.82)),linear-gradient(135deg,#2a1622,#4f2440) center/cover}
-.hero .wrap{padding-top:120px;padding-bottom:80px}
-.tag{display:inline-block;border:1px solid rgba(255,255,255,.35);padding:6px 14px;border-radius:99px;font-size:14px;margin-bottom:22px}
-.hero h1{font-size:clamp(40px,7vw,84px);line-height:1.02;letter-spacing:-.03em;max-width:900px}
-.hero p{font-size:clamp(18px,2.2vw,22px);opacity:.85;max-width:620px;margin:20px 0 34px}
-.main{background:#d4568c;color:#fff} .ghost{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.3);color:#fff}
-section{padding:90px 0} h2{font-size:clamp(28px,4vw,42px);letter-spacing:-.02em;margin-bottom:36px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px}
-.card{background:#18191c;border:1px solid #26272b;border-radius:20px;padding:30px}
-.card .n{color:#d4568c;font-weight:800;font-size:15px;margin-bottom:14px} .card h3{font-size:21px;margin-bottom:8px} .card p{opacity:.7}
-.why{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:26px}
-.why div{border-top:2px solid #d4568c;padding-top:16px;font-size:18px}
-.contact{background:#d4568c;color:#fff;border-radius:28px;padding:56px 40px;text-align:center}
-.contact h2{margin-bottom:12px} .contact .btns{justify-content:center;margin-top:26px}
-.contact .main{background:#fff;color:#111} .contact .ghost{border-color:rgba(255,255,255,.5)}
-</style></head><body><div class="demo">Демо-версия сайта, подготовленная для «Асем». Понравилось? Сделаем полноценный сайт за 3 дня.</div><header class="hero"><div class="wrap"><span class="tag">Алматы</span><h1>Асем</h1><p>Алматы. Звоните или пишите в WhatsApp — ответим и подскажем.</p><div class="btns"><a class="btn main" href="tel:+77273814499">📞 Позвонить</a><a class="btn ghost" href="https://wa.me/77273814499">💬 WhatsApp</a></div></div></header><section><div class="wrap"><h2>Услуги</h2><div class="grid"><div class="card"><div class="n">01</div><h3>Стрижки и окрашивание</h3><p></p></div><div class="card"><div class="n">02</div><h3>Маникюр и уход</h3><p></p></div><div class="card"><div class="n">03</div><h3>Онлайн-запись</h3><p></p></div></div></div></section><section style="padding-top:0"><div class="wrap"><h2>Почему мы</h2><div class="why"><div>Удобно связаться по телефону или в WhatsApp</div><div>Внимательно относимся к каждому клиенту</div><div>Работаем для жителей города Алматы</div></div></div></section><section style="padding-top:0"><div class="wrap"><div class="contact"><h2>Запишитесь на удобное время — мы подберём мастера.</h2><p><b>Город:</b> Алматы</p><p><b>Телефон:</b> +7 (727) 381-44-99</p><div class="btns"><a class="btn main" href="tel:+77273814499">📞 Позвонить</a><a class="btn ghost" href="https://wa.me/77273814499">💬 WhatsApp</a></div></div></div></section><footer>© Асем, Алматы<div class="credit"></div></footer><div class="sticky"><a class="btn" style="background:#d4568c;color:#fff" href="tel:+77273814499">📞 Позвонить</a><a class="btn" style="background:#25d366;color:#fff" href="https://wa.me/77273814499">💬 WhatsApp</a></div></body></html>
+body{font-family:'Manrope','Segoe UI',system-ui,sans-serif}
+.rv.in{animation:rv .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rv{from{opacity:0;transform:translateY(30px)}to{opacity:1;transform:none}}
+.mq{overflow:hidden;white-space:nowrap;padding:18px 0}
+.mq div{display:inline-block;animation:mq 28s linear infinite}
+.mq span{display:inline-block;margin:0 28px}
+@keyframes mq{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.mq div,.rv.in{animation:none}}
+.btn{transition:transform .2s,box-shadow .2s}.btn:hover{transform:translateY(-2px);box-shadow:0 10px 24px -10px rgba(0,0,0,.45)}
+
+@keyframes fl{0%,100%{transform:translateY(0) rotate(var(--r,0deg))}50%{transform:translateY(-12px) rotate(var(--r,0deg))}}
+@media (prefers-reduced-motion:reduce){.fc{animation:none!important}}
+
+body{background:#060607;color:#f3f3f3}
+.sky{position:relative;min-height:96vh;display:grid;place-items:center;text-align:center;overflow:hidden}
+.sky h1{font-family:'Manrope',sans-serif;font-weight:800;font-size:clamp(42px,7vw,96px);letter-spacing:-.04em;line-height:1}
+.sky h1 span{background:linear-gradient(100deg,#fff 20%,#c94f86 60%,#fff 95%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.sky p{opacity:.6;font-size:18px;margin:18px auto 30px;max-width:520px}
+.sky .btns{justify-content:center}
+.main{background:#fff;color:#111} .ghost{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.18);color:#fff}
+.fc{position:absolute;background:#141416;border:1px solid rgba(255,255,255,.09);border-radius:18px;padding:16px 18px;text-align:left;
+font-size:14px;box-shadow:0 30px 60px -30px rgba(0,0,0,.8);animation:fl 7s ease-in-out infinite;max-width:230px}
+.fc small{display:block;opacity:.5;font-size:11px;margin-bottom:6px;text-transform:uppercase;letter-spacing:.1em}
+.fc b{font-size:15px} .fc i{display:block;font-style:normal;color:#c94f86;font-weight:700;margin-top:6px}
+.ph{width:190px;height:150px;padding:0;background:none center/cover,#222}
+section{padding:100px 0} h2{font-size:clamp(28px,4vw,46px);letter-spacing:-.03em;margin-bottom:30px;font-weight:800}
+.srv{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.srv div{background:#111113;border:1px solid rgba(255,255,255,.08);border-radius:22px;padding:28px;transition:border-color .3s}
+.srv div:hover{border-color:#c94f86} .srv b{color:#c94f86} .srv h3{font-size:21px;margin:10px 0 6px} .srv p{opacity:.6}
+.cta{border-radius:30px;padding:64px 40px;text-align:center;background:linear-gradient(135deg,#c94f8640,transparent 60%),#111113;border:1px solid rgba(255,255,255,.08)}
+.cta .btns{justify-content:center;margin-top:24px}
+@media(max-width:900px){.fc{display:none}.fc.keep{display:block;position:static;margin:16px auto 0;animation:none}.srv{grid-template-columns:1fr}}
+</style></head><body><div class="demo">Демо-версия сайта, подготовленная для «Асем». Понравилось? Сделаем полноценный сайт за 3 дня.</div><header class="sky"><div class="fc" style="top:9%;left:6%;--r:-6deg"><small>Город</small><b>Алматы</b></div><div class="fc" style="top:12%;right:7%;--r:5deg;animation-delay:-2s"><small>Услуги</small><b>Стрижки и окрашивание</b></div><div class="fc" style="bottom:14%;left:9%;--r:4deg;animation-delay:-4s"><small>Услуги</small><b>Маникюр и уход</b></div><div class="fc" style="bottom:10%;right:8%;--r:-4deg;animation-delay:-1s"><small>Телефон</small><b>+7 (727) 381-44-99</b><i>WhatsApp ✓</i></div><div class="wrap"><h1><span>Асем</span></h1><p>Алматы. Звоните или пишите в WhatsApp — ответим и подскажем.</p><div class="btns"><a class="btn main" href="tel:+77273814499">📞 Позвонить</a><a class="btn ghost" href="https://wa.me/77273814499">💬 WhatsApp</a></div></div></header><div class="mq"><div><span>Стрижки и окрашивание</span><span>•</span><span>Маникюр и уход</span><span>•</span><span>Онлайн-запись</span><span>•</span><span>Удобно связаться по телефону или в WhatsApp</span><span>•</span><span>Внимательно относимся к каждому клиенту</span><span>•</span><span>Работаем для жителей города Алматы</span><span>•</span><span>Стрижки и окрашивание</span><span>•</span><span>Маникюр и уход</span><span>•</span><span>Онлайн-запись</span><span>•</span><span>Удобно связаться по телефону или в WhatsApp</span><span>•</span><span>Внимательно относимся к каждому клиенту</span><span>•</span><span>Работаем для жителей города Алматы</span><span>•</span></div></div><section><div class="wrap"><h2>Услуги</h2><div class="srv"><div class="rv"><b>01</b><h3>Стрижки и окрашивание</h3><p></p></div><div class="rv"><b>02</b><h3>Маникюр и уход</h3><p></p></div><div class="rv"><b>03</b><h3>Онлайн-запись</h3><p></p></div></div></div></section><section style="padding-top:0"><div class="wrap"><h2>Почему мы</h2><div class="srv"><div class="rv"><h3>✓ Удобно связаться по телефону или в WhatsApp</h3></div><div class="rv"><h3>✓ Внимательно относимся к каждому клиенту</h3></div><div class="rv"><h3>✓ Работаем для жителей города Алматы</h3></div></div></div></section><section style="padding-top:0"><div class="wrap"><div class="cta rv"><h2>Запишитесь на удобное время — мы подберём мастера.</h2><p><b>Город:</b> Алматы</p><p><b>Телефон:</b> +7 (727) 381-44-99</p><div class="btns"><a class="btn main" href="tel:+77273814499">📞 Позвонить</a><a class="btn ghost" href="https://wa.me/77273814499">💬 WhatsApp</a></div></div></div></section><footer>© Асем, Алматы<div class="credit"></div></footer><div class="sticky"><a class="btn" style="background:#c94f86;color:#fff" href="tel:+77273814499">📞 Позвонить</a><a class="btn" style="background:#25d366;color:#fff" href="https://wa.me/77273814499">💬 WhatsApp</a></div></body></html>

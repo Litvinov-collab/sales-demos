@@ -15,21 +15,22 @@ a{color:inherit}
 footer{font-size:13px;opacity:.6;padding:34px 0;text-align:center}
 .credit{font-size:11px;opacity:.55;margin-top:6px}
 
-body{background:#f6f4f0;color:#1c1b19}
-nav{display:flex;justify-content:space-between;align-items:center;padding:22px 0;font-weight:700}
-nav a{text-decoration:none;color:#f0a020}
-.hero{display:grid;grid-template-columns:1.05fr 1fr;gap:48px;align-items:center;padding:30px 0 80px}
-.hero h1{font-size:clamp(38px,5.4vw,66px);line-height:1.05;letter-spacing:-.03em}
-.hero h1 span{color:#f0a020} .hero p{font-size:19px;color:#5b5852;margin:20px 0 32px;max-width:520px}
-.ph{aspect-ratio:4/5;border-radius:28px;background:linear-gradient(135deg,#111827,#1f2a3a) center/cover;box-shadow:0 30px 60px -30px rgba(0,0,0,.4)}
-.main{background:#f0a020;color:#fff} .ghost{background:#fff;color:#1c1b19;border:1px solid #e2ded6}
-section{padding:80px 0} h2{font-size:clamp(28px,3.6vw,40px);letter-spacing:-.02em;margin-bottom:30px}
-.list>div{display:grid;grid-template-columns:60px 1fr;gap:18px;padding:24px 0;border-top:1px solid #e2ded6}
-.list b{font-size:28px;color:#f0a020} .list h3{font-size:21px} .list p{color:#6b675f}
-.gal{display:grid;grid-template-columns:2fr 1fr;gap:16px}
-.gal div{border-radius:22px;min-height:260px;background-size:cover;background-position:center}
-.why{display:flex;flex-wrap:wrap;gap:12px} .why span{background:#fff;border:1px solid #e2ded6;border-radius:99px;padding:12px 20px;font-weight:600}
-.contact{background:#1c1b19;color:#f6f4f0;border-radius:28px;padding:50px 40px}
-.contact .btns{margin-top:24px} .contact .ghost{background:transparent;color:#fff;border-color:#55524c}
-@media(max-width:820px){.hero{grid-template-columns:1fr}.ph{aspect-ratio:4/3}.gal{grid-template-columns:1fr}}
-</style></head><body><div class="demo">Демо-версия сайта, подготовленная для «Кузовной ремонт». Понравилось? Сделаем полноценный сайт за 3 дня.</div><div class="wrap"><nav><span>Кузовной ремонт</span><a href="tel:+77713582767">+77713582767</a></nav><header class="hero"><div><h1>Ремонт и обслуживание без лишних слов<br><span>Кузовной ремонт</span></h1><p>Астана. Звоните или пишите в WhatsApp — ответим и подскажем.</p><div class="btns"><a class="btn main" href="tel:+77713582767">📞 Позвонить</a><a class="btn ghost" href="https://wa.me/77713582767">💬 WhatsApp</a></div></div><div class="ph"></div></header></div><section style="background:#fff"><div class="wrap"><h2>Услуги</h2><div class="list"><div><b>01</b><div><h3>Диагностика</h3><p></p></div></div><div><b>02</b><div><h3>Ремонт любой сложности</h3><p></p></div></div><div><b>03</b><div><h3>Шиномонтаж и запчасти</h3><p></p></div></div></div></div></section><section style="padding-top:0"><div class="wrap"><h2>Почему мы</h2><div class="why"><span>✓ Удобно связаться по телефону или в WhatsApp</span><span>✓ Внимательно относимся к каждому клиенту</span><span>✓ Работаем для жителей города Астана</span></div></div></section><section style="padding-top:0"><div class="wrap"><div class="contact"><h2>Позвоните — скажем цену и сроки до начала работ.</h2><p><b>Город:</b> Астана</p><p><b>Телефон:</b> +77713582767</p><div class="btns"><a class="btn main" href="tel:+77713582767">📞 Позвонить</a><a class="btn ghost" href="https://wa.me/77713582767">💬 WhatsApp</a></div></div></div></section><footer>© Кузовной ремонт, Астана<div class="credit"></div></footer><div class="sticky"><a class="btn" style="background:#f0a020;color:#fff" href="tel:+77713582767">📞 Позвонить</a><a class="btn" style="background:#25d366;color:#fff" href="https://wa.me/77713582767">💬 WhatsApp</a></div></body></html>
+body{background:#eef1f5;color:#141821}
+.hero{margin:22px auto 0;max-width:1160px;border-radius:30px;overflow:hidden;display:grid;grid-template-columns:1fr 1fr;background:#fff}
+.hero .t{padding:60px 50px;display:flex;flex-direction:column;justify-content:center}
+.hero small{color:#f0a020;font-weight:700;text-transform:uppercase;letter-spacing:.12em;font-size:13px}
+.hero h1{font-size:clamp(36px,4.8vw,60px);line-height:1.05;letter-spacing:-.03em;margin:14px 0 18px}
+.hero p{color:#596273;font-size:18px;margin-bottom:28px}
+.hero .ph{min-height:420px;background:linear-gradient(135deg,#111827,#1f2a3a) center/cover}
+.main{background:#f0a020;color:#fff} .ghost{background:#eef1f5;color:#141821}
+section{padding:70px 0} h2{font-size:clamp(26px,3.4vw,38px);letter-spacing:-.02em;margin-bottom:26px}
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.cards article{background:#fff;border-radius:22px;overflow:hidden;box-shadow:0 10px 30px -18px rgba(20,24,33,.35)}
+.cards .im{height:180px;background-size:cover;background-position:center}
+.cards .tx{padding:22px} .cards h3{font-size:20px;margin-bottom:6px} .cards p{color:#596273}
+.why{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.why div{background:#fff;border-radius:18px;padding:24px;font-weight:600;border-left:5px solid #f0a020}
+.contact{background:#141821;color:#fff;border-radius:30px;padding:54px 44px;display:grid;grid-template-columns:1.2fr 1fr;gap:30px;align-items:center}
+.contact .ghost{background:rgba(255,255,255,.08);color:#fff}
+@media(max-width:820px){.hero,.contact{grid-template-columns:1fr}.hero .t{padding:36px 26px}.hero .ph{min-height:260px}.cards,.why{grid-template-columns:1fr}}
+</style></head><body><div class="demo">Демо-версия сайта, подготовленная для «Кузовной ремонт». Понравилось? Сделаем полноценный сайт за 3 дня.</div><div style="padding:0 16px"><header class="hero"><div class="t"><small>Астана</small><h1>Кузовной ремонт</h1><p>Астана. Звоните или пишите в WhatsApp — ответим и подскажем.</p><div class="btns"><a class="btn main" href="tel:+77713582767">📞 Позвонить</a><a class="btn ghost" href="https://wa.me/77713582767">💬 WhatsApp</a></div></div><div class="ph"></div></header></div><section><div class="wrap"><h2>Услуги</h2><div class="cards"><article><div class="im" style="background-image:linear-gradient(135deg,#111827,#1f2a3a)"></div><div class="tx"><h3>Диагностика</h3><p></p></div></article><article><div class="im" style="background-image:linear-gradient(135deg,#111827,#1f2a3a)"></div><div class="tx"><h3>Ремонт любой сложности</h3><p></p></div></article><article><div class="im" style="background-image:linear-gradient(135deg,#111827,#1f2a3a)"></div><div class="tx"><h3>Шиномонтаж и запчасти</h3><p></p></div></article></div></div></section><section style="padding-top:0"><div class="wrap"><h2>Почему мы</h2><div class="why"><div>Удобно связаться по телефону или в WhatsApp</div><div>Внимательно относимся к каждому клиенту</div><div>Работаем для жителей города Астана</div></div></div></section><section style="padding-top:0"><div class="wrap"><div class="contact"><div><h2>Позвоните — скажем цену и сроки до начала работ.</h2><p><b>Город:</b> Астана</p><p><b>Телефон:</b> +77713582767</p></div><div class="btns"><a class="btn main" href="tel:+77713582767">📞 Позвонить</a><a class="btn ghost" href="https://wa.me/77713582767">💬 WhatsApp</a></div></div></div></section><footer>© Кузовной ремонт, Астана<div class="credit"></div></footer><div class="sticky"><a class="btn" style="background:#f0a020;color:#fff" href="tel:+77713582767">📞 Позвонить</a><a class="btn" style="background:#25d366;color:#fff" href="https://wa.me/77713582767">💬 WhatsApp</a></div></body></html>
