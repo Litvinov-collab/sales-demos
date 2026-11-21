@@ -1,0 +1,25 @@
+{
+ "title": "A reliable partner for your tasks",
+ "subtitle": "Consultation, clear timelines and results you can count on.",
+ "services": [
+  {
+   "name": "Consultation",
+   "text": "We'll look at your case"
+  },
+  {
+   "name": "End-to-end",
+   "text": "From idea to result"
+  },
+  {
+   "name": "Support",
+   "text": "Always reachable"
+  }
+ ],
+ "why": [
+  "Easy to reach by phone or WhatsApp",
+  "Friendly, attentive service",
+  "Proudly serving Los Angeles"
+ ],
+ "cta": "Message us on WhatsApp — we'll reply today.",
+ "source": "template2"
+}

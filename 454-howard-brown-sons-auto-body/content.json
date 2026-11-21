@@ -1,0 +1,25 @@
+{
+ "title": "Repairs that get it right",
+ "subtitle": "Diagnostics, an honest quote before we start, and deadlines we keep.",
+ "services": [
+  {
+   "name": "Diagnostics",
+   "text": "We find the cause first"
+  },
+  {
+   "name": "Engine & suspension",
+   "text": "Repairs of any complexity"
+  },
+  {
+   "name": "Service & oil change",
+   "text": "Done while you wait"
+  }
+ ],
+ "why": [
+  "Easy to reach by phone or WhatsApp",
+  "Friendly, attentive service",
+  "Proudly serving Los Angeles"
+ ],
+ "cta": "Describe the problem on WhatsApp — we'll quote price and time.",
+ "source": "template2"
+}

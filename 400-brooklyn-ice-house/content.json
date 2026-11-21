@@ -1,0 +1,25 @@
+{
+ "title": "Your evening starts here",
+ "subtitle": "Drinks, bites and an atmosphere you won't want to leave early.",
+ "services": [
+  {
+   "name": "Drinks",
+   "text": "Classics and signature cocktails"
+  },
+  {
+   "name": "Kitchen",
+   "text": "Snacks for every drink"
+  },
+  {
+   "name": "Bookings",
+   "text": "Tables for groups and parties"
+  }
+ ],
+ "why": [
+  "Easy to reach by phone or WhatsApp",
+  "Friendly, attentive service",
+  "Proudly serving New York"
+ ],
+ "cta": "Book a table for tonight on WhatsApp.",
+ "source": "template2"
+}
