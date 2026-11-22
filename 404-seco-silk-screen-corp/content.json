@@ -1,0 +1,25 @@
+{
+ "title": "Print your designs on custom apparel",
+ "subtitle": "Seco Silk Screen Corp helps you bring your creative ideas to life on clothing in New York.",
+ "services": [
+  {
+   "name": "Custom T-shirt printing",
+   "text": "We print your artwork or logos on cotton t-shirts for teams or events."
+  },
+  {
+   "name": "Hoodie and sweatshirt printing",
+   "text": "Get warm clothing customized with your design for your group or business."
+  },
+  {
+   "name": "Tote bag printing",
+   "text": "We apply your graphics to durable fabric bags for giveaways or daily use."
+  }
+ ],
+ "why": [
+  "We handle your order with care and attention",
+  "Simple process for getting your prints made",
+  "Local silk screening for New York residents"
+ ],
+ "cta": "Email us your design ideas to get a price quote.",
+ "source": "ai"
+}

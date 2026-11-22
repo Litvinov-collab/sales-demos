@@ -1,0 +1,25 @@
+{
+ "title": "Enjoy warm cheese tarts in Los Angeles",
+ "subtitle": "We bake fresh cheese tarts daily for everyone looking for a sweet and savory treat.",
+ "services": [
+  {
+   "name": "Original Cheese Tart",
+   "text": "A crisp pastry shell filled with our signature creamy cheese mousse filling."
+  },
+  {
+   "name": "Chocolate Cheese Tart",
+   "text": "Rich cocoa pastry combined with a smooth, velvety cheese center for chocolate lovers."
+  },
+  {
+   "name": "Assorted Boxes",
+   "text": "Pick a mix of flavors to share with friends or enjoy by yourself."
+  }
+ ],
+ "why": [
+  "Baked fresh throughout the day in our kitchen",
+  "Simple ingredients for a balanced taste",
+  "Served warm for a soft and creamy texture"
+ ],
+ "cta": "Order a box through our website for pickup at the bakery",
+ "source": "ai"
+}

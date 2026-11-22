@@ -1,0 +1,25 @@
+{
+ "title": "Enjoy warm pizza at Love Amaro",
+ "subtitle": "We prepare fresh pizza for your dinner. Visit us for a slice or a whole pie.",
+ "services": [
+  {
+   "name": "Dine-in pizza",
+   "text": "Enjoy your fresh pizza in our comfortable seating area."
+  },
+  {
+   "name": "Takeout pickup",
+   "text": "Order ahead and grab your pizza to eat at home."
+  },
+  {
+   "name": "Delivery to you",
+   "text": "We bring hot pizza straight to your door."
+  }
+ ],
+ "why": [
+  "Fresh ingredients in every pizza",
+  "Simple recipes made with care",
+  "Relaxed atmosphere for your meal"
+ ],
+ "cta": "Call us to place your order for pickup or delivery",
+ "source": "ai"
+}

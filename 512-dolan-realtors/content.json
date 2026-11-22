@@ -1,0 +1,25 @@
+{
+ "title": "Find a home you will love",
+ "subtitle": "Dolan Realtors helps you navigate buying or selling a home in Chicago with clarity and ease",
+ "services": [
+  {
+   "name": "Buying a home",
+   "text": "We help you look at listings and walk through homes until you find one"
+  },
+  {
+   "name": "Selling your property",
+   "text": "We handle the paperwork and get your home ready for people to see"
+  },
+  {
+   "name": "Renting an apartment",
+   "text": "We listen to what you need and show you available places that fit you"
+  }
+ ],
+ "why": [
+  "We listen to what you actually need",
+  "We explain every step of the process clearly",
+  "You get our full attention during the search"
+ ],
+ "cta": "Send us a message to start talking about your plans",
+ "source": "ai"
+}
