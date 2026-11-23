@@ -1,0 +1,25 @@
+{
+ "title": "Get a new fence for your yard",
+ "subtitle": "We help Houston homeowners select and install the right fencing to define their property boundaries.",
+ "services": [
+  {
+   "name": "Wood Fencing",
+   "text": "We supply wood panels and posts to create privacy for your outdoor space."
+  },
+  {
+   "name": "Metal Fencing",
+   "text": "Choose metal options if you want a sturdy boundary that holds up well."
+  },
+  {
+   "name": "Fence Repairs",
+   "text": "We assist with fixing broken boards or loose posts to keep fences standing."
+  }
+ ],
+ "why": [
+  "Straightforward pricing options for your budget",
+  "Clear communication during the entire process",
+  "Local team familiar with Houston properties"
+ ],
+ "cta": "Call our office to discuss your project or schedule a time to meet.",
+ "source": "ai"
+}

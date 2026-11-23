@@ -1,0 +1,25 @@
+{
+ "title": "Enjoy fresh Italian pastries at Angelina Bakery",
+ "subtitle": "We bake bread and traditional Italian sweets daily using simple ingredients to bring a taste of Italy home.",
+ "services": [
+  {
+   "name": "Fresh Italian Bread",
+   "text": "Warm loaves baked throughout the day with traditional flour and sea salt."
+  },
+  {
+   "name": "Traditional Italian Pastries",
+   "text": "Sweet treats prepared by hand following classic recipes from Italy."
+  },
+  {
+   "name": "Custom Cake Orders",
+   "text": "Cakes for your gatherings made with care using our signature recipes."
+  }
+ ],
+ "why": [
+  "Baked fresh daily in our kitchen",
+  "Classic Italian recipes used for everything",
+  "Simple ingredients for authentic flavor"
+ ],
+ "cta": "Message us on WhatsApp to order your treats",
+ "source": "ai"
+}

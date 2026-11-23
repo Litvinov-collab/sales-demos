@@ -1,0 +1,25 @@
+{
+ "title": "Stay active at Lincoln Park Recreation Center",
+ "subtitle": "Our doors are open for everyone in Los Angeles who wants to move and feel better.",
+ "services": [
+  {
+   "name": "Cardio equipment",
+   "text": "Get your heart rate up with our treadmills, bikes, and elliptical machines."
+  },
+  {
+   "name": "Weight training",
+   "text": "Build muscle and gain strength using our free weights and resistance machines."
+  },
+  {
+   "name": "Open gym space",
+   "text": "Use our mats and floor space for stretching or your own workout routine."
+  }
+ ],
+ "why": [
+  "A simple space to focus on your fitness",
+  "Equipment available whenever you need to train",
+  "Friendly atmosphere to support your daily movement"
+ ],
+ "cta": "Send us a message on WhatsApp to sign up for your first visit.",
+ "source": "ai"
+}

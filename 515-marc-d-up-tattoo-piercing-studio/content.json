@@ -1,0 +1,25 @@
+{
+ "title": "Bring your tattoo ideas to life",
+ "subtitle": "Visit Marc'D Up Tattoo & Piercing Studio for custom ink and piercings in Chicago.",
+ "services": [
+  {
+   "name": "Custom Tattoo Design",
+   "text": "Work with our artists to create a design that fits you."
+  },
+  {
+   "name": "Body Piercing",
+   "text": "Safe and sterile procedures for ears and body jewelry."
+  },
+  {
+   "name": "Tattoo Consultations",
+   "text": "Discuss your ideas, size, and placement with our team."
+  }
+ ],
+ "why": [
+  "Clean and sterile equipment for your safety",
+  "Artists who take time to understand your vision",
+  "A welcoming space for your tattoo or piercing"
+ ],
+ "cta": "Send us a message on Instagram to book your session",
+ "source": "ai"
+}

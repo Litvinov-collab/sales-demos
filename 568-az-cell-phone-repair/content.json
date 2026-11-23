@@ -1,0 +1,25 @@
+{
+ "title": "Get your phone working like new again",
+ "subtitle": "We fix broken screens, battery issues, and charging ports so you can get back to your day.",
+ "services": [
+  {
+   "name": "Screen Replacement",
+   "text": "We remove your broken screen and install a new glass display for your phone."
+  },
+  {
+   "name": "Battery Replacement",
+   "text": "If your phone dies too quickly, we swap in a fresh, reliable battery for you."
+  },
+  {
+   "name": "Charging Port Repair",
+   "text": "We clean or replace the port so your cable connects properly and charges every time."
+  }
+ ],
+ "why": [
+  "We explain exactly what is wrong with your phone",
+  "You get your device back as quickly as possible",
+  "We handle your phone with care while fixing it"
+ ],
+ "cta": "Text us your phone model to schedule a repair time",
+ "source": "ai"
+}

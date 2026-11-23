@@ -1,0 +1,25 @@
+{
+ "title": "Find the right crystals for your home",
+ "subtitle": "We help you find natural minerals and stones to bring a calm atmosphere to your space",
+ "services": [
+  {
+   "name": "Natural crystals",
+   "text": "We stock a wide selection of raw stones and polished minerals for your collection"
+  },
+  {
+   "name": "Home decor",
+   "text": "Find unique pieces that add texture and natural beauty to your living room or desk"
+  },
+  {
+   "name": "Gift selection",
+   "text": "Choose a thoughtful gift for someone who appreciates natural stones and earth elements"
+  }
+ ],
+ "why": [
+  "Wide variety of natural stones available",
+  "Helpful staff to answer your questions",
+  "Simple way to explore new minerals"
+ ],
+ "cta": "Visit our store to see the latest collection",
+ "source": "ai"
+}
