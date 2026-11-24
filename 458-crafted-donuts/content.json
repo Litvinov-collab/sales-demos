@@ -1,0 +1,25 @@
+{
+ "title": "Fast. Hot. Filling.",
+ "subtitle": "Made to order from fresh ingredients — take it with you or get it delivered.",
+ "services": [
+  {
+   "name": "Menu favorites",
+   "text": "What people come back for"
+  },
+  {
+   "name": "Combos",
+   "text": "Better value for groups"
+  },
+  {
+   "name": "Takeaway",
+   "text": "Message us and it'll be ready"
+  }
+ ],
+ "why": [
+  "Easy to reach by phone or WhatsApp",
+  "Friendly, attentive service",
+  "Proudly serving Los Angeles"
+ ],
+ "cta": "Order on WhatsApp and pick it up hot.",
+ "source": "template2"
+}

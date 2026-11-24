@@ -1,0 +1,25 @@
+{
+ "title": "A dinner you'll want to repeat",
+ "subtitle": "Carefully cooked dishes and a room that works for family, friends or an important meeting.",
+ "services": [
+  {
+   "name": "Kitchen menu",
+   "text": "Mains, salads and house specials"
+  },
+  {
+   "name": "Events",
+   "text": "Birthdays, weddings, corporate"
+  },
+  {
+   "name": "Table booking",
+   "text": "Message us and we'll save you a table"
+  }
+ ],
+ "why": [
+  "Easy to reach by phone or WhatsApp",
+  "Friendly, attentive service",
+  "Proudly serving Phoenix"
+ ],
+ "cta": "Book a table on WhatsApp in a minute.",
+ "source": "template2"
+}

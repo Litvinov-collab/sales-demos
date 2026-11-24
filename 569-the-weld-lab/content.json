@@ -1,0 +1,25 @@
+{
+ "title": "Reliable metal welding for your projects",
+ "subtitle": "We handle custom metal fabrication and repairs in Houston with care and precision.",
+ "services": [
+  {
+   "name": "Custom Fabrication",
+   "text": "We build metal items based on your needs and designs."
+  },
+  {
+   "name": "Metal Repairs",
+   "text": "Bring your broken metal pieces to us for a sturdy fix."
+  },
+  {
+   "name": "Structural Welding",
+   "text": "We join metal components to keep your structures safe."
+  }
+ ],
+ "why": [
+  "Practical approach to every metal project",
+  "Clear communication throughout the entire process",
+  "Focus on durable and functional results"
+ ],
+ "cta": "Send us a message on WhatsApp to discuss your project.",
+ "source": "ai"
+}

@@ -1,0 +1,25 @@
+{
+ "title": "Rest comfortably at The Metcalf House",
+ "subtitle": "A welcoming space for travelers looking for a place to rest during their stay in Phoenix.",
+ "services": [
+  {
+   "name": "Private rooms",
+   "text": "Simple rooms equipped with beds to ensure you get a good night of sleep."
+  },
+  {
+   "name": "Shared common areas",
+   "text": "Relax in our common spaces and meet other travelers passing through our city."
+  },
+  {
+   "name": "Helpful check-in",
+   "text": "We make sure your arrival is smooth and get you settled in quickly."
+  }
+ ],
+ "why": [
+  "Comfortable beds for a restful sleep",
+  "Friendly staff ready to help you",
+  "Simple and clean place to stay"
+ ],
+ "cta": "Book your stay through our website.",
+ "source": "ai"
+}

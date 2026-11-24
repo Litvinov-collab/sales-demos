@@ -1,0 +1,25 @@
+{
+ "title": "Everything you need, close to home",
+ "subtitle": "Good selection, fair prices and help when you're not sure what to choose.",
+ "services": [
+  {
+   "name": "Wide selection",
+   "text": "New stock regularly"
+  },
+  {
+   "name": "Help choosing",
+   "text": "We'll compare for you"
+  },
+  {
+   "name": "Hold an order",
+   "text": "Message us, we'll set it aside"
+  }
+ ],
+ "why": [
+  "Easy to reach by phone or WhatsApp",
+  "Friendly, attentive service",
+  "Proudly serving Houston"
+ ],
+ "cta": "Ask about availability on WhatsApp.",
+ "source": "template2"
+}

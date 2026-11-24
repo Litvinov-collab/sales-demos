@@ -1,0 +1,25 @@
+{
+ "title": "Time for yourself",
+ "subtitle": "Nails, skin care and treatments in a calm place, never rushed.",
+ "services": [
+  {
+   "name": "Manicure & pedicure",
+   "text": "Polish that lasts"
+  },
+  {
+   "name": "Facials",
+   "text": "Cleansing and care"
+  },
+  {
+   "name": "Brows & lashes",
+   "text": "Shaping and lifting"
+  }
+ ],
+ "why": [
+  "Easy to reach by phone or WhatsApp",
+  "Friendly, attentive service",
+  "Proudly serving New York"
+ ],
+ "cta": "Book on WhatsApp — we'll match you with a specialist.",
+ "source": "template2"
+}

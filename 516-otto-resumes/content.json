@@ -1,0 +1,25 @@
+{
+ "title": "Work done properly",
+ "subtitle": "Experienced craftspeople, honest prices and work we stand behind.",
+ "services": [
+  {
+   "name": "On-site visit",
+   "text": "We assess the job"
+  },
+  {
+   "name": "Build & repair",
+   "text": "Made to your size"
+  },
+  {
+   "name": "Warranty",
+   "text": "We stand by our work"
+  }
+ ],
+ "why": [
+  "Easy to reach by phone or WhatsApp",
+  "Friendly, attentive service",
+  "Proudly serving Chicago"
+ ],
+ "cta": "Describe the job on WhatsApp for a quote.",
+ "source": "template2"
+}
