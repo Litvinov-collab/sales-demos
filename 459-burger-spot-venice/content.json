@@ -1,0 +1,25 @@
+{
+ "title": "Fresh burgers made for your lunch",
+ "subtitle": "We cook classic burgers daily for everyone looking for a quick and tasty meal in Los Angeles",
+ "services": [
+  {
+   "name": "Classic beef burgers",
+   "text": "Juicy beef patties served on soft buns with fresh vegetables and our signature sauce"
+  },
+  {
+   "name": "Crispy golden fries",
+   "text": "Thin cut potatoes fried until golden and seasoned with just the right amount of salt"
+  },
+  {
+   "name": "Cold refreshing drinks",
+   "text": "Choose from a selection of sodas to pair with your meal for a complete lunch"
+  }
+ ],
+ "why": [
+  "Simple recipes using fresh ingredients every day",
+  "Fast service for when you are hungry now",
+  "Casual atmosphere for a quick bite with friends"
+ ],
+ "cta": "Order your meal online to pick it up",
+ "source": "ai"
+}

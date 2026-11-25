@@ -1,0 +1,25 @@
+{
+ "title": "Reliable car repair for your daily drive",
+ "subtitle": "We fix mechanical and electrical issues so you can get back on the road in Houston",
+ "services": [
+  {
+   "name": "Engine diagnostics",
+   "text": "We check engine codes and find the root cause of your car problems"
+  },
+  {
+   "name": "Electrical system repair",
+   "text": "Fixing broken lights, battery issues, and wiring problems to keep your vehicle running"
+  },
+  {
+   "name": "General maintenance",
+   "text": "Oil changes and routine checkups to keep everything working smoothly for you"
+  }
+ ],
+ "why": [
+  "Honest answers about your car issues",
+  "Clear explanations of repairs needed",
+  "Focus on getting you back on the road"
+ ],
+ "cta": "Call us to schedule your repair appointment for this week",
+ "source": "ai"
+}

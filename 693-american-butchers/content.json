@@ -1,0 +1,25 @@
+{
+ "title": "Fresh cuts for your home cooking",
+ "subtitle": "We prepare beef, pork, and poultry daily for people in Dallas who enjoy cooking meals at home",
+ "services": [
+  {
+   "name": "Custom cuts",
+   "text": "Tell us how thick you want your steak or how you prefer your roast prepared"
+  },
+  {
+   "name": "Fresh beef and pork",
+   "text": "We keep our selection stocked so you can pick out what you need for dinner"
+  },
+  {
+   "name": "Cooking advice",
+   "text": "Ask us how to prepare a specific cut if you need help in the kitchen"
+  }
+ ],
+ "why": [
+  "We cut meat fresh every single day",
+  "You get exactly the portion size you need",
+  "Simple ingredients without any extra additives"
+ ],
+ "cta": "Call us to place your order and pick it up at the shop",
+ "source": "ai"
+}

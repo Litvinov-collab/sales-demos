@@ -1,0 +1,25 @@
+{
+ "title": "Help your child learn and grow with us",
+ "subtitle": "At The Treetop ABA, we support children with autism through therapy that focuses on their daily needs.",
+ "services": [
+  {
+   "name": "Early intervention",
+   "text": "Getting support early helps children develop social skills and build confidence for their future."
+  },
+  {
+   "name": "Social skills training",
+   "text": "We create a safe space for children to learn how to interact with others comfortably."
+  },
+  {
+   "name": "Daily life support",
+   "text": "Our team helps children learn everyday tasks so they can feel more capable at home."
+  }
+ ],
+ "why": [
+  "Focused on your child's unique needs",
+  "A calm space for learning and therapy",
+  "Open communication with parents and family"
+ ],
+ "cta": "Send a message to schedule an introductory call",
+ "source": "ai"
+}

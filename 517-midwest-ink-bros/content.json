@@ -1,0 +1,25 @@
+{
+ "title": "Custom apparel for your local team",
+ "subtitle": "We help groups get the shirts and hoodies they need without any stress or hassle.",
+ "services": [
+  {
+   "name": "Screen printing",
+   "text": "We add your artwork to t-shirts, hoodies, and sweatshirts for your group."
+  },
+  {
+   "name": "Custom embroidery",
+   "text": "We stitch your logo onto hats and jackets to keep things looking clean."
+  },
+  {
+   "name": "Bulk apparel orders",
+   "text": "We handle the printing process for your large event or team."
+  }
+ ],
+ "why": [
+  "We keep the ordering process simple and clear",
+  "You get your gear on time and ready",
+  "We print on reliable and comfortable clothing brands"
+ ],
+ "cta": "Send us a message on WhatsApp to discuss your project requirements",
+ "source": "ai"
+}
