@@ -1,0 +1,25 @@
+{
+ "title": "Fresh meals served hot every day",
+ "subtitle": "Stop by for a classic meal prepared just the way you like it",
+ "services": [
+  {
+   "name": "Breakfast classics",
+   "text": "Fluffy pancakes and eggs cooked to your preference in our kitchen"
+  },
+  {
+   "name": "Daily lunch specials",
+   "text": "Simple sandwiches and warm soups made fresh when you order"
+  },
+  {
+   "name": "Coffee and pie",
+   "text": "Freshly brewed coffee served alongside a slice of homemade pie"
+  }
+ ],
+ "why": [
+  "We cook everything to order",
+  "Comfortable seating for everyone",
+  "Simple food done right"
+ ],
+ "cta": "Visit us to grab a table and enjoy a meal",
+ "source": "ai"
+}

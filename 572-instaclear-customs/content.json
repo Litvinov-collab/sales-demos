@@ -1,0 +1,25 @@
+{
+ "title": "Get your car running smoothly again",
+ "subtitle": "We handle your car repairs and maintenance so you can get back on the road",
+ "services": [
+  {
+   "name": "Engine repair",
+   "text": "We fix common engine issues to keep your vehicle running reliably"
+  },
+  {
+   "name": "Routine maintenance",
+   "text": "Oil changes and tune-ups to help your car last longer"
+  },
+  {
+   "name": "Brake service",
+   "text": "Checking and repairing brakes to ensure your safety on the road"
+  }
+ ],
+ "why": [
+  "Honest and direct communication about your car",
+  "Mechanics who care about your vehicle",
+  "Clear explanations of all repair work needed"
+ ],
+ "cta": "Call or text us to schedule your appointment",
+ "source": "ai"
+}

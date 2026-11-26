@@ -1,0 +1,25 @@
+{
+ "title": "Insurance without the extra hassle for you",
+ "subtitle": "We help you understand insurance policies and choose what suits you best.",
+ "services": [
+  {
+   "name": "Car insurance",
+   "text": "We find a policy so you feel calm on the road."
+  },
+  {
+   "name": "Home insurance",
+   "text": "We help protect your house or apartment from unexpected trouble."
+  },
+  {
+   "name": "Business insurance",
+   "text": "We find options to protect your business from various risks."
+  }
+ ],
+ "why": [
+  "We explain everything in simple, plain language",
+  "We listen to you and offer necessary solutions",
+  "We help handle paperwork without the extra stress"
+ ],
+ "cta": "Write to us on WhatsApp to discuss your question",
+ "source": "ai"
+}

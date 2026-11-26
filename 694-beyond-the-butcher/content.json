@@ -1,0 +1,25 @@
+{
+ "title": "Fresh meat for your home cooking",
+ "subtitle": "We provide fresh meat cuts and helpful advice for preparing your next meal at home",
+ "services": [
+  {
+   "name": "Fresh beef cuts",
+   "text": "We slice steaks and roasts to your preferred thickness every single day"
+  },
+  {
+   "name": "Custom meat orders",
+   "text": "Let us know what you need and we will prepare it for you"
+  },
+  {
+   "name": "Cooking advice",
+   "text": "Ask us for tips on how to prepare your specific cut of meat"
+  }
+ ],
+ "why": [
+  "Fresh meat ready for your kitchen",
+  "Friendly help with your meat selection",
+  "Simple cuts for everyday home cooking"
+ ],
+ "cta": "Call us to check availability or place your order",
+ "source": "ai"
+}

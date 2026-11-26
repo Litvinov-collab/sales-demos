@@ -1,0 +1,25 @@
+{
+ "title": "Get the right bike for your ride",
+ "subtitle": "We help people in Phoenix pick out bikes that make getting around or hitting the trails easy.",
+ "services": [
+  {
+   "name": "New bike sales",
+   "text": "Browse our selection of bikes ready for the trails or city streets."
+  },
+  {
+   "name": "Routine bike tune-ups",
+   "text": "Bring your bike in so we can check the gears and keep it running smoothly."
+  },
+  {
+   "name": "Parts and repairs",
+   "text": "We fix flat tires and broken chains to get you back on the road."
+  }
+ ],
+ "why": [
+  "Bikes ready for you to ride",
+  "Friendly help choosing the right gear",
+  "Simple repairs to keep you moving"
+ ],
+ "cta": "Call us or message on WhatsApp to reserve your bike or service time.",
+ "source": "ai"
+}

@@ -1,0 +1,25 @@
+{
+ "title": "Keep your hair looking sharp",
+ "subtitle": "We provide straightforward barbering services in a comfortable space for your regular maintenance.",
+ "services": [
+  {
+   "name": "Classic Haircut",
+   "text": "A clean cut to keep your style neat and easy to manage."
+  },
+  {
+   "name": "Beard Trim",
+   "text": "We shape and tidy your facial hair to keep it looking sharp."
+  },
+  {
+   "name": "Hot Towel Shave",
+   "text": "A traditional shave using warm towels for a smooth finish."
+  }
+ ],
+ "why": [
+  "Relaxed atmosphere for your comfort",
+  "Clear communication about your preferred style",
+  "Simple and straightforward booking process"
+ ],
+ "cta": "Book your appointment online to secure your time",
+ "source": "ai"
+}
